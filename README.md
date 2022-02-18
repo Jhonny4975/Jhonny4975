@@ -7,8 +7,10 @@
   
 ##  
  
-- 🤝 I'm collaborating on [Where](https://appwhere.io/)
-- 📜 Things i like: nordic and greek mythology, technology, games, i love listening to music and seeing new places
-- 📫 How to reach me: [linktr.ee](https://linktr.ee/Jhonny_Toledo)
- 
+- 📖 What I'm Studying: Every day I'm studying to deepen my existing knowledge and discovering new tools and technologies in the process.
+- 💡Next steps: Docker, SQL, BDD, CI/CD (in progress), JavaScript, Bootstrap, etc...
+- 🤝 I'm collaborating on [Where](https://appwhere.io/).
+- 📜 Things i like: nordic and greek mythology, technology, games, i love listening to music and seeing new places.
+- 📫 How to reach me: [linktr.ee](https://linktr.ee/Jhonny_Toledo).
+
 <hr>
