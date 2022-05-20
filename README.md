@@ -1,14 +1,10 @@
-<h1>Hi, welcome to my profile!</h1>
+<h2>Hi, welcome to my profile!</h2>
 
-- 📖 What I'm Studying: Every day I'm studying to deepen my existing knowledge and discovering new tools and technologies in the process.
-- 💡Next steps: Docker, SQL, BDD, CI/CD (in progress), JavaScript, Bootstrap, etc...
+- 📖 What I do: I work on myself every day, deepening my knowledge and trying to ensure my continuous evolution.
+- 💡Next steps: move on to the second stage of the training offered by Campus Code, win my first vacancy, set new goals and keep evolving.
 - 🤝 I'm looking for an opportunity to exercise my skills in the corporate world, learn and help develop a real project.
 - 📜 Things I like: technology, games, nordic mythology, listen to music and discovering new places.
 - 📫 How to reach me: [linktr.ee](https://linktr.ee/Jhonny_Toledo).
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonny4975&show_icons=true&icon_color=hex_color&theme=material-palenight&include_all_commits=true&count_private=true"/>
-</div>
 
 ##
 
