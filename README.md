@@ -9,6 +9,5 @@
 ##
 
 <div align="left">
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FJhonny4975"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FJhonny4975&countColor=%23263759&style=flat" /></a>
   <a href="https://wakatime.com/@00f993aa-e30a-408c-9821-b9197f197a31"><img src="https://wakatime.com/badge/user/00f993aa-e30a-408c-9821-b9197f197a31.svg" alt="Total time coded since Feb 18 2022" /></a>
 </div>
