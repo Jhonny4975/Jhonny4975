@@ -1,10 +1,29 @@
 <h2>Hi, welcome to my profile!</h2>
 
-- 📖 What I do: I work on myself every day, deepening my knowledge and trying to ensure my continuous evolution.
-- 💡Next steps: move on to the second stage of the training offered by Campus Code, win my first vacancy, set new goals and keep evolving.
-- 🤝 I'm looking for an opportunity to exercise my skills in the corporate world, learn and help develop a real project.
-- 📜 Things I like: technology, games, nordic mythology, listen to music and discovering new places.
-- 📫 How to reach me: [linktr.ee](https://linktr.ee/Jhonny_Toledo).
+- 📖 I'm doing: I work on myself every day, deepening my knowledge and ensuring continuous evolution.
+- 💡Next steps: Build a portfolio using the technologies and tools I've learned so far. Expand my knowledge of frontend and javascript.
+- 🤝 I'm looking for an opportunity to use my skills in the corporate world, share knowledge and help develop a real project.
+- 📜 Hobbies: Games, movies and music.
+- 📫 How to contact me: [contact](https://linktr.ee/Jhonny_Toledo).
+
+##
+
+<div align="left">
+  <a href="https://github.com/Jhonny4975">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonny4975&show_icons=true&icon_color=hex_color&theme=material-palenight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonny4975&layout=compact&theme=material-palenight"/></a>
+</div>
+
+<div align="left" style="display: inline_block"><br>
+  <img align="center" alt="ruby" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
+  <img align="center" alt="rails" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
+  <img align="center" alt="postgres" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img align="center" alt="redis" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" />
+  <img align="center" alt="html5" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img align="center" alt="docker" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
+  <img align="center" alt="rspec" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original-wordmark.svg" />
+  <img align="center" alt="codecov" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codecov/codecov-plain.svg" />
+</div>
 
 ##
 
