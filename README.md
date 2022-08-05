@@ -34,10 +34,10 @@
 
 ### Team 1 final project (TreinaDev)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/TreinaDev/pagamentos-td08-time01">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Treinadev&repo=pagamentos-td08-time01&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/TreinaDev/e-commerce-td08-time01">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Treinadev&repo=e-commerce-td08-time01&theme=material-palenight" />
 </a>
