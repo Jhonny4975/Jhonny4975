@@ -23,10 +23,21 @@
   <img align="center" alt="docker" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="rspec" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original-wordmark.svg" />
   <img align="center" alt="codecov" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codecov/codecov-plain.svg" />
-</div>
-
-##
+</div><br>
 
 <div align="left">
   <a href="https://wakatime.com/@00f993aa-e30a-408c-9821-b9197f197a31"><img src="https://wakatime.com/badge/user/00f993aa-e30a-408c-9821-b9197f197a31.svg" alt="Total time coded since Feb 18 2022" /></a>
 </div>
+
+##
+
+
+### Team 1 final project (TreinaDev)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Treinadev&repo=pagamentos-td08-time01&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Treinadev&repo=e-commerce-td08-time01&theme=material-palenight" />
+</a>
