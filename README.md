@@ -3,9 +3,8 @@
   <div>
     <h3>About me :</h3>
     <ul>
-      <li>📖 I'm doing: learning html, css and JavaScript.</li>
+      <li>📖 I'm doing: learning JavaScript and React.</li>
       <li>💡Next steps: Build a portfolio using the technologies and tools I've learned so far.</li>
-      <li>🤝 I'm looking for an opportunity to use my skills in the corporate world, share knowledge and help develop a real project.</li>
       <li>📜 Hobbies: Games, movies and listen to music.</li>
       <li>📫 How to contact me: <a href="https://linktr.ee/Jhonny_Toledo">contact</a></li>
     </ul>
