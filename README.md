@@ -30,13 +30,4 @@
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Jhonny4975&show_icons=true&icon_color=hex_color&theme=material-palenight&count_private=true"/>
     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonny4975&layout=compact&theme=material-palenight"/></a>
   </div>
-  <div>
-    <h3>Team 1 final project (TreinaDev)</h3>
-    <a href="https://github.com/TreinaDev/pagamentos-td08-time01">
-      <img height="126px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Treinadev&repo=pagamentos-td08-time01&theme=material-palenight" />
-    </a>
-    <a href="https://github.com/TreinaDev/e-commerce-td08-time01">
-      <img height="126px"align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Treinadev&repo=e-commerce-td08-time01&theme=material-palenight" />
-    </a>
-  </div>
 </div>
