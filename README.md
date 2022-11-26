@@ -29,8 +29,6 @@
     <a href="https://github.com/Jhonny4975">
       <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Jhonny4975&show_icons=true&icon_color=hex_color&theme=material-palenight&count_private=true"/>
     </a>
-    <a href="https://github.com/Jhonny4975">
-      <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonny4975&layout=compact&theme=material-palenight"/>
-    </a>
+    <a href="https://wakatime.com"><img height="400px" src="https://wakatime.com/share/@Jhonny_Toledo/883a08fa-e30e-46bf-b141-c9fe1e735020.png" /></a>
   </div>
 </div>
