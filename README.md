@@ -24,10 +24,13 @@
   <div>
     <a href="https://wakatime.com/@00f993aa-e30a-408c-9821-b9197f197a31"><img src="https://wakatime.com/badge/user/00f993aa-e30a-408c-9821-b9197f197a31.svg" alt="Total time coded since Feb 18 2022" /></a>
   </div>
+  <h3>GitHub stats: </h3>
   <div>
-    <h3>GitHub stats: </h3>
     <a href="https://github.com/Jhonny4975">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Jhonny4975&show_icons=true&icon_color=hex_color&theme=material-palenight&count_private=true"/>
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonny4975&layout=compact&theme=material-palenight"/></a>
+      <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Jhonny4975&show_icons=true&icon_color=hex_color&theme=material-palenight&count_private=true"/>
+    </a>
+    <a href="https://github.com/Jhonny4975">
+      <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonny4975&layout=compact&theme=material-palenight"/>
+    </a>
   </div>
 </div>
