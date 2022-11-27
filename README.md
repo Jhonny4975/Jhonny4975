@@ -21,14 +21,21 @@
     <img align="center" alt="rspec" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original-wordmark.svg" />
     <img align="center" alt="codecov" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codecov/codecov-plain.svg" />
   </div><br>
-  <div>
-    <a href="https://wakatime.com/@00f993aa-e30a-408c-9821-b9197f197a31"><img src="https://wakatime.com/badge/user/00f993aa-e30a-408c-9821-b9197f197a31.svg" alt="Total time coded since Feb 18 2022" /></a>
-  </div>
-  <h3>GitHub stats: </h3>
-  <div>
-    <a href="https://github.com/Jhonny4975">
-      <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Jhonny4975&show_icons=true&icon_color=hex_color&theme=material-palenight&count_private=true"/>
-    </a>
-    <a href="https://wakatime.com"><img height="400px" src="https://wakatime.com/share/@Jhonny_Toledo/883a08fa-e30e-46bf-b141-c9fe1e735020.png" /></a>
-  </div>
+  <table>
+    <tr>
+      <th>GitHub stats:</th>
+      <th>Total time coded since Feb 18 2022</th>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Jhonny4975">
+          <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Jhonny4975&show_icons=true&icon_color=hex_color&theme=material-palenight&count_private=true"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://wakatime.com/@00f993aa-e30a-408c-9821-b9197f197a31"><img src="https://wakatime.com/badge/user/00f993aa-e30a-408c-9821-b9197f197a31.svg" alt="Total time coded since Feb 18 2022" /></a>
+        <a href="https://wakatime.com"><img height="380px" src="https://wakatime.com/share/@Jhonny_Toledo/883a08fa-e30e-46bf-b141-c9fe1e735020.png" /></a>
+      </td>
+    </tr>
+  </table>
 </div>
